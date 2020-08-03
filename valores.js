@@ -1,13 +1,9 @@
-var apis = [{
-id: "test1", name: "test1", url:"http://www.luckyblank.cn/wuxinjx/?url=",title:"接口1"
-},{
-id: "test2", name: "test2", url:"https://jx.618g.com/?url=",title:"接口2"
-},{
-id: "test3", name: "test3", url:"http://www.luckyblank.cn/wuxinjx/?url=",title:"接口1"
-},{
-id: "test4", name: "test4", url:"https://jx.618g.com/?url=",title:"接口2"
-},{
-id: "test5", name: "test5", url:"http://www.luckyblank.cn/wuxinjx/?url=",title:"接口1"
-},{
-id: "test6", name: "test6", url:"https://jx.618g.com/?url=",title:"接口2"
-}];
+var raros = {};
+
+raros['1'] = { nome: 'totem', atual: 10 };
+raros['2'] = { nome: 'totem marrom', atual: 30 };
+raros['3'] = { nome: 'totem branco', atual: 20 };
+raros['4'] = { nome: 'totem azul', atual: 19 };
+raros['5'] = { nome: 'totem verde', atual: 13 };
+raros['6'] = { nome: 'totem amarelo', atual: 14 };
+raros['7'] = { nome: 'totem vermelho', atual: 12 };
