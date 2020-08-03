@@ -1,9 +1,13 @@
-var raros = {};
-
-raros['totem'] = { nome: 'totem', atual: 10 };
-raros['totemm'] = { nome: 'totem marrom', atual: 30 };
-raros['totemb'] = { nome: 'totem branco', atual: 20 };
-raros['totema'] = { nome: 'totem azul', atual: 19 };
-raros['totemv'] = { nome: 'totem verde', atual: 13 };
-raros['totemaa'] = { nome: 'totem amarelo', atual: 14 };
-raros['totemvv'] = { nome: 'totem vermelho', atual: 12 };
+var apis = [{
+id: "test1", name: "test1", url:"http://www.luckyblank.cn/wuxinjx/?url=",title:"接口1"
+},{
+id: "test2", name: "test2", url:"https://jx.618g.com/?url=",title:"接口2"
+},{
+id: "test3", name: "test3", url:"http://www.luckyblank.cn/wuxinjx/?url=",title:"接口1"
+},{
+id: "test4", name: "test4", url:"https://jx.618g.com/?url=",title:"接口2"
+},{
+id: "test5", name: "test5", url:"http://www.luckyblank.cn/wuxinjx/?url=",title:"接口1"
+},{
+id: "test6", name: "test6", url:"https://jx.618g.com/?url=",title:"接口2"
+}];
