@@ -1,1 +1,2 @@
- var totem = {url: 'alimentos', nome: 'alimentos', atual: 'alimentos', anterior: '🍉',};
+var totem = {};
+totem['alimentos'] = {url: 'alimentos', nome: 'alimentos', atual: 'alimentos', anterior: '🍉',};
